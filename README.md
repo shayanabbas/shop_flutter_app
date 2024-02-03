@@ -1,16 +1,11 @@
-# shop_flutter_app
+# A Simple Shop App in Flutter
 
 A new Flutter project.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## How it looks?
+### Home Screen
+![Simulator Screenshot - iPhone 15 Pro Max - 2024-02-03 at 23 23 26](https://github.com/shayanabbas/shop_flutter_app/assets/5176243/434e15f8-cdaa-49bb-b236-20ae32930e50)
+### Product Details Screen
+![Simulator Screenshot - iPhone 15 Pro Max - 2024-02-03 at 23 23 31](https://github.com/shayanabbas/shop_flutter_app/assets/5176243/b498eed7-f74f-4874-bea5-52dd45c727b5)
+### Cart Screen
+![Simulator Screenshot - iPhone 15 Pro Max - 2024-02-03 at 23 23 46](https://github.com/shayanabbas/shop_flutter_app/assets/5176243/d999c19b-2fea-4bda-8363-2b7565aa4030)
